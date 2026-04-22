@@ -1,3 +1,8 @@
+## 0.2.0
+
+* **Upgrade**: Added support for `flutter_map` v8 and `flutter_map_marker_cluster` v8.
+* **Environment**: Bumped Dart SDK requirement to `>=3.6.0` and Flutter requirement to `>=3.27.0` to match `flutter_map` v8 constraints.
+
 ## 0.1.0
 
 ### Breaking Changes

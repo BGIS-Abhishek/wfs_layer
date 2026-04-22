@@ -36,9 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.8
   wfs_layer:
     path: ../  # Points to /Users/amiand-bhugol2/Documents/Practice/wfs_layer/
-  flutter_map: ^7.0.2
+  flutter_map: ^8.3.0
   latlong2: ^0.9.1
-  flutter_map_marker_cluster: ^1.4.0
+  flutter_map_marker_cluster: ^8.2.2
   http: ^1.3.0
 
 dev_dependencies:

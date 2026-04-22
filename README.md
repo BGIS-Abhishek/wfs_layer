@@ -38,8 +38,8 @@ Supports **Points**, **LineStrings**, **Polygons**, **MultiLineStrings**, and **
 ```yaml
 # pubspec.yaml
 dependencies:
-  flutter_map: ^7.0.2
-  wfs_layer: ^0.1.0
+  flutter_map: ^8.3.0
+  wfs_layer: ^0.2.0
 ```
 
 ```bash
@@ -282,7 +282,7 @@ for (final f in features) {
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or pull request on [GitHub](https://github.com/yabhishek1906/wfs_layer).
+Contributions are welcome! Please open an issue or pull request on [GitHub](https://github.com/BGIS-Abhishek/wfs_layer).
 
 ---
 
